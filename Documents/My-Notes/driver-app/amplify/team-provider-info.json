@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-driverapp-dev-133918-authRole",
+      "UnauthRoleArn": "arn:aws:iam::517327181257:role/amplify-driverapp-dev-133918-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::517327181257:role/amplify-driverapp-dev-133918-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-driverapp-dev-133918-deployment",
+      "UnauthRoleName": "amplify-driverapp-dev-133918-unauthRole",
+      "StackName": "amplify-driverapp-dev-133918",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:517327181257:stack/amplify-driverapp-dev-133918/3d412b90-5ff9-11ed-a493-0a2bbb4837a0",
+      "AmplifyAppId": "d3t32fx04rjyb"
+    }
+  }
+}
